@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "spr-4": {
+            "Ghql\\": "src"
+        }
+    },
+    "require": {
+        "euautomation/graphql-client": "0.2"
+    }
+}
